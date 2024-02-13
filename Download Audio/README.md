@@ -1,12 +1,17 @@
 Download Audio
+
 🛠️ Description
+
 This is a python script that downloads audio files directly from youtube videos.
 
 ⚙️ Languages or Frameworks Used
+
 This script is written in Python language. So make sure you have python installed in your computer. Two modules of python are used in this script to install those follow below steps
 
 Open cmd prompt
+
 write "pip install moviepy"
+
 write "pip install pytube"
 
 
