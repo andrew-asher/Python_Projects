@@ -1,5 +1,5 @@
 # Python_Projects
-Welcome to my GitHub repository! I'm Andrew Asher, and I'm thrilled to present a collection of Mini Data Science Projects that I've developed. These projects serve as compact yet powerful solutions to simplify day-to-day coding tasks, providing Python libraries and small frameworks for various applications.
+Welcome to my GitHub repository! I'm Andrew Asher, and I'm thrilled to present a collection of Python Projects that I've developed. These projects serve as compact yet powerful solutions to simplify day-to-day coding tasks, providing Python libraries and small frameworks for various applications.
 
 
 In this dynamic collection, I bring you a series of mini projects designed to function as handy Python libraries and small frameworks. These projects are crafted with the intention of simplifying day-to-day activities, making your life as a developer, data scientist, or enthusiast more efficient.
